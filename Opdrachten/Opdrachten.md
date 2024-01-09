@@ -11,7 +11,7 @@
 - Opdracht netwerken 20/12/23 (config files networks uploaden op github)
 - Power App OLR 22/12/23 (een applicatie maken op powerapps)
 
-Ik vond de Talstelsels toets het interessantste omdat ik het leuk vond om oefeningen ervan te maken en ik had het zeer goed onder de knie. Ik behaalde ook een 19/20 op de toets, daar ben ik zeer trots op en het beloonde mijn harde werk. 
+Ik vond de talstelsels toets het interessantste omdat ik het leuk vond om oefeningen ervan te maken en ik had het zeer goed onder de knie. Ik behaalde ook een 19/20 op de toets, daar ben ik zeer trots op en het beloonde mijn harde werk. 
 De actualiteit opdracht vond ik ook leuk omdat ik kon samenwerken met medestudenten dus hoorde ik hun mening over de onderwerpen.
 
 ![image](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AlejandroVerissimoPXL/assets/148559043/a3382d41-0bfe-4d18-9bbb-d8bcf7f572dd)
