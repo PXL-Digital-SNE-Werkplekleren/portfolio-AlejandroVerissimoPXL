@@ -3,7 +3,7 @@
 ## Opdrachten WPL 1
 POP reflectieopdracht 29/09/23 (Korte persoonlijke reflectieopdracht)
 
-Toets Talstelsels 11/10/23 (Test over deciamele, binaire, octale en hexadecimale talstelsels)
+Toets Talstelsels 11/10/23 (Toets over decimale, binaire, octale en hexadecimale talstelsels)
 
 POP opdracht planning 13/10/23 (Schematische planning maken van 2 weken)
 
