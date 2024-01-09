@@ -6,7 +6,7 @@
 - POP opdracht planning 13/10/23 (Schematische planning maken van 2 weken)
 - Carrièrekompas 14/10/23 (Loopbaanplan opstellen)
 - Link portfolio website 08/11/23 (Github portfolio maken )
-- Linux 13/12/23 (zelfstudie linux shells)
+- Linux 13/12/23 (Linux zelfstudie)
 - Opdracht actualiteit 13/12/23 (Reflectie opdracht over de impact van AI op de IT in willekeurige groepen)
 - Opdracht netwerken 20/12/23 (config files networks uploaden op github)
 - Power App OLR 22/12/23 (een applicatie maken op powerapps)
