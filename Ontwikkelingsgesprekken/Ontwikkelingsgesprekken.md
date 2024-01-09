@@ -10,10 +10,10 @@ De gastseminaries boden waardevolle inzichten van professionals uit de industrie
 Binnen het beroep van systeem- en netwerkbeheer zie ik de noodzaak om voortdurend op de hoogte te blijven van de nieuwste technologische ontwikkelingen. Dit omvat niet alleen traditionele netwerken, maar ook opkomende trends zoals het Internet of Things en edge computing. Verder heb ik ingezien dat communicatievaardigheden van groot belang zijn, aangezien professionals in dit vakgebied vaak moeten samenwerken met collega's. Ik heb ook ontdekt dat de mogelijkheid om flexibel te zijn en snel te reageren op veranderingen van essentieel belang is.
 
 ### Mijn evolutie tijdens WPL1
-
-De talstelsel oefeningen en toets hebben me goed voorbereid op de toets van networks.
-Ik heb meer leren samenwerken en communiceren tijdens de actualiteits taak 
-De gastsprekers hebben me veel bijgeleerd wat er gebeurd op het werkveld
+Mijn belangrijke leermomenten van WPL1 waren de volgende:
+- De talstelsel oefeningen en toets hebben me goed voorbereid op de toets van networks.
+- Ik heb meer leren samenwerken en communiceren tijdens de actualiteits taak.
+- De gastsprekers hebben me veel bijgeleerd wat er gebeurd op het werkveld.
 
 Technische skills:
 * Netwerkconfiguratie en beheer
