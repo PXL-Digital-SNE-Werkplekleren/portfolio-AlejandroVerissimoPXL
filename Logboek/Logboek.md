@@ -4,8 +4,7 @@
 De planning van WPL 1:
 
 
-![295224660-087dfd90-90fc-4c15-9b3c-b33524f5a917](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AlejandroVerissimoPXL/assets/295224660-087dfd90-90fc-4c15-9b3c-b33524f5a917.png)
-
+![295224660-087dfd90-90fc-4c15-9b3c-b33524f5a917](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AlejandroVerissimoPXL/images/planning.png)
 
 ## Logboek WPL 2
 
