@@ -24,7 +24,7 @@ Hij vertelde over hoe het is om te werken op de service desk en wat er allemaal 
 
 ### Slotevaluatie 
 - Wat weet je al over de soort van job die je later wil uitoefenen?
-  Ik wil graag een netwerkbeheerder willen worden. Daarmee zal ik verantwoordelijk zijn voor het ontwerpen, implementeren en onderhouden van computernetwerken binnen een organisatie
+  Ik zou graag een netwerkbeheerder willen worden. Daarmee zal ik verantwoordelijk zijn voor het ontwerpen, implementeren en onderhouden van computernetwerken binnen een organisatie
 - Waarover zou je nog wel een gastseminarie willen tijdens WPL2?
  Tijdens WPL2 zou ik graag een gastseminarie bijwonen over de nieuwste ontwikkelingen op het gebied van netwerkbeheer, met specifieke aandacht voor opkomende technologieën zoals Software Defined Networking (SDN) en network virtualization. Dit zou mijn kennis verbreden en me voorbereiden op de toekomstige trends in het vakgebied.
 - Welk inzicht heeft WPL1 jou gebracht?
