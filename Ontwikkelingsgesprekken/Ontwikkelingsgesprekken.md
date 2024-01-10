@@ -13,7 +13,7 @@ Binnen het beroep van systeem- en netwerkbeheer zie ik de noodzaak om voortduren
 Mijn belangrijke leermomenten van WPL1 waren de volgende:
 - De talstelsel oefeningen en toets hebben me goed voorbereid op de toets van networks.
 - Ik heb meer leren samenwerken en communiceren tijdens de actualiteits taak.
-- De gastsprekers hebben me veel bijgeleerd wat er gebeurd op het werkveld.
+- De gastsprekers hebben me veel bijgeleerd door te vertellen wat er gebeurd op het werkveld.
 
 Technische skills:
 * Netwerkconfiguratie en beheer
