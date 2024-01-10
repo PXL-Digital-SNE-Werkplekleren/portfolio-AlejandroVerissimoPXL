@@ -11,6 +11,13 @@ Het was leuk om te horen wat hij te zeggen had. Hij heeft veel bereikt op een ko
 ### POP reflectie
 [Verissimo_Alejandro_reflectie.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AlejandroVerissimoPXL/files/13875778/Verissimo_Alejandro_reflectie.pdf)
 ### X-factor
+Sinds mijn kindertijd ben ik altijd graag bezig geweest met computers, en daarom denk ik dat de richting die ik nu volg perfect bij me past. Het harde werk loont echt voor mij. Het behalen van goede resultaten motiveert me enorm en geeft me extra energie. In gesprekken, vooral over nieuwe technologieën, proberen we elkaar meer te leren en te delen.
+
+Voor mij betekent een ken-doementaliteit niet alleen het opbouwen van kennis, maar ook het actief toepassen ervan. Ik ben constant bezig met het opdoen van meer kennis en gebruik wat ik al weet om praktische oefeningen te doen. Op dit moment is mijn netwerk nog niet zo groot, maar ik ken enkele mensen die werken in de IT-sector. Ik hoop dat wanneer ik mijn opleiding afrond, zij me kunnen helpen bij het vinden van een baan.
+
+Om samen te werken en kennis te delen, zou ik gebruik maken van online platforms zoals Microsoft Teams. Mijn vaardigheden om routers en switches te configureren en te werken met Linux dragen bij aan mijn technische competenties.
+
+Binnen mijn opleiding kan ik in aanraking komen met verschillende beroepen, waaronder cybersecurity, helpdeskmedewerker, softwareontwikkelaar, en meer. Mijn middelbare schoolervaring in IT & Netwerken, inclusief stages, heeft een basis gelegd waarop ik nu voortbouw. Het is mijn passie voor IT die me heeft geleid naar deze studierichting. Ik geloof dat ik mijn X-factor verder kan ontwikkelen door mijn netwerk uit te breiden en voortdurend te streven naar meer kennis en ervaring.
 
 ### Carglass gastspreker
 Hij vertelde over hoe het is om te werken op de service desk en wat er allemaal gedaan wordt. Hij is ook de hoofd van de service desk. Voordat hij er begon waren er superveel klachten en hadden ze heel veel achterstand. Maar na een aantal jaar hard werken is dat fors gedaald. Persoonlijk zou ik zelf die job niet willen doen want het lijkt me niet leuk om constant bezig te zijn met problemen van klanten.
