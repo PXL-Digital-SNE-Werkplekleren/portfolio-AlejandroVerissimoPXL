@@ -3,3 +3,4 @@ Een portfolio bevat specifieke informatie over de technische competenties en pre
 Het dient als een gestructureerd overzicht van de individuele prestaties en groei in het vakgebied.
 # persoonlijke info
 
+![](./cv.png?raw=true)
