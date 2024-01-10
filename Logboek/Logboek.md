@@ -5,7 +5,8 @@ De planning van WPL 1:
 
 
 
-![planning](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AlejandroVerissimoPXL/images/planning.png)
+![](./planning.png?raw=true)
+
 
 
 ## Logboek WPL 2
