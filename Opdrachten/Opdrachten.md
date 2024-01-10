@@ -16,6 +16,7 @@ De actualiteit opdracht vond ik ook leuk omdat ik kon samenwerken met medestuden
 
 ![](./talstelsel.png?raw=true)
 ![](./pop.png?raw=true)
+<img src="./images/pop.png" width="20%">
 
 
 
