@@ -30,7 +30,7 @@ Ontwikkelpunten:
 * Vergroting van time-managementvaardigheden.
 
 ## Overzicht ontwikkelingsgesprekken WPL 2
-
+Zie Opdrachten en Reflectie.
 ## Overzicht ontwikkelingsgesprekken WPL 3
 
 ## Overzicht ontwikkelingsgesprekken WPL 4
