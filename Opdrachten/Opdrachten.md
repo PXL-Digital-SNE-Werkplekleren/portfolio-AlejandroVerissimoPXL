@@ -21,7 +21,7 @@ De actualiteit opdracht vond ik ook leuk omdat ik kon samenwerken met medestuden
 
 
 ## Opdrachten WPL 2
-
+Tijdens WPL2 heb ik verschillende taken uitgevoerd. Als eerst in Sprint 2 heb ik het netwerkschema gemaakt en de Linux server geïnstalleerd. Daarna heb ik de fileserver gemaakt op DC02
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4
