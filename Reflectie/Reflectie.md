@@ -40,7 +40,11 @@ Tijdens WPL2 zou ik graag een gastseminarie bijwonen over de nieuwste ontwikkeli
 In WPL2 hoop ik mijn cybersecuritykennis te verdiepen, aangezien beveiliging een belangrijk onderdeel is van netwerkbeheer.
 
 ## Reflectie WPL 2
+Tijdens WPL2 heb ik verschillende taken uitgevoerd. Als eerst in Sprint 2 heb ik het netwerkschema gemaakt en de Linux server geïnstalleerd. Daarna heb ik de fileserver gemaakt op DC02 en LAPS geïmplementeerd. Ik heb ook voor de Windows DNS-configuratie gezorgd, waarbij ik de lookupzones heb aangemaakt en de computers eraan gekoppeld. Daarnaast heb ik de personal firewalls geconfigureerd op de pc's in het klaslokaal en heb ik meegeholpen met de Cisco-opdracht. Als laatst heb ik voor de backups gezorgd en een helpdesk ticketing systeem opgezet.
 
+Wat betreft mijn ervaring met de opdrachten, vond ik het maken van het netwerkschema en de installatie van de Linux server uitdagend maar leerzaam. Het lukte me goed om de Windows DNS-configuratie op te zetten zonder problemen. Bij de fileserver had ik echter enkele moeilijkheden, die ik met hulp van mijn team heb kunnen oplossen. De implementatie van LAPS en de configuratie van de personal firewalls verliepen soepel.
+
+De samenwerking in ons team was over het algemeen positief. We hebben taken efficiënt verdeeld en elkaar ondersteund bij moeilijkheden. Ik heb gemerkt dat ik technisch veel gegroeid ben, vooral in het werken met servers en netwerkconfiguraties. Daarnaast heb ik mijn soft skills, zoals communicatie en teamwerk, aanzienlijk verbeterd door regelmatig overleg en het oplossen van conflicten binnen het team.
 ## Reflectie WPL 3
 
 ## Reflectie WPL 4
