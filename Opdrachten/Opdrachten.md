@@ -24,6 +24,7 @@ De actualiteit opdracht vond ik ook leuk omdat ik kon samenwerken met medestuden
 Tijdens WPL2 heb ik verschillende taken uitgevoerd. Als eerst in Sprint 2 heb ik het netwerkschema gemaakt en de Linux server geïnstalleerd. Daarna heb ik de fileserver gemaakt op DC02, LAPS geïmplementeerd. Ik heb ook voor de Windows DNS configuratie gezorgd. De lookupzone's aangemaakt en de computers eraan gekoppeld. Daarnaast heb ik ook voor de personal firewalls gezorgd op de klaslokaal pc's. En heb ik ook meegeholpen met de cisco opdracht. Als laatst heb ik voor de Backup's gezorgd en een helpdesk ticketing systeem gemaakt.
 
 Eindpresentatie:
+
 Ik ben heel fier op de helpdesk ticketing systeem die ik heb gemaakt:[Helpdesk Ticketing system Alejandro Verissimo.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AlejandroVerissimoPXL/files/15473352/Helpdesk.Ticketing.system.Alejandro.Verissimo.pdf)
 
 ## Opdrachten WPL 3
