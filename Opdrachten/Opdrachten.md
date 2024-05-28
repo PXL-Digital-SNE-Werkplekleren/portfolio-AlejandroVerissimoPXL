@@ -21,7 +21,7 @@ De actualiteit opdracht vond ik ook leuk omdat ik kon samenwerken met medestuden
 
 
 ## Opdrachten WPL 2
-Tijdens WPL2 heb ik verschillende taken uitgevoerd. Als eerst in Sprint 2 heb ik het netwerkschema gemaakt en de Linux server geïnstalleerd. Daarna heb ik de fileserver gemaakt op DC02
+Tijdens WPL2 heb ik verschillende taken uitgevoerd. Als eerst in Sprint 2 heb ik het netwerkschema gemaakt en de Linux server geïnstalleerd. Daarna heb ik de fileserver gemaakt op DC02, LAPS geïmplementeerd. Ik heb ook voor de Windows DNS configuratie gezorgd. De lookupzone's aangemaakt en de computers eraan gekoppeld. Daarnaast heb ik ook voor de personal firewalls gezorgd op de klaslokaal pc's. En heb ik ook meegeholpen met de cisco opdracht. Als laatst heb ik voor de Backup's gezorgd en een helpdesk ticketing systeem gemaakt.
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4
