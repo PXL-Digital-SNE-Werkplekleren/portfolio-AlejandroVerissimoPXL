@@ -29,5 +29,17 @@ Eindpresentatie: [WPL2PresentatieTeam04 (1).pdf](https://github.com/PXL-Digital-
 Ik ben heel fier op de helpdesk ticketing systeem die ik heb gemaakt:[Helpdesk Ticketing system Alejandro Verissimo.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-AlejandroVerissimoPXL/files/15473352/Helpdesk.Ticketing.system.Alejandro.Verissimo.pdf)
 
 ## Opdrachten WPL 3
+Opdracht Werkkwaliteiten
+
+[WPL3-SNE_Intervisie_Leerdoelen+Werkkwaliteiten_VerissimoAlejandro_24(1).pdf](https://github.com/user-attachments/files/18323778/WPL3-SNE_Intervisie_Leerdoelen%2BWerkkwaliteiten_VerissimoAlejandro_24.1.pdf)
+
+Opdracht Probleemsituatie
+
+[ProbleemsituatieWPL3_2SNEa_Verissimo_Alejandro.pdf](https://github.com/user-attachments/files/18323781/ProbleemsituatieWPL3_2SNEa_Verissimo_Alejandro.pdf)
+
+Opdracht Probleem met advies
+
+[ProbleemsituatieWPL3_2SNEa_Verissimo_Alejandro_Naverwerking.pdf](https://github.com/user-attachments/files/18323786/ProbleemsituatieWPL3_2SNEa_Verissimo_Alejandro_Naverwerking.pdf)
+
 
 ## Opdrachten WPL 4
