@@ -14,5 +14,8 @@ Zie Opdrachten en Reflectie.
 
 
 ## Logboek WPL 3
+[Logboek.pdf](https://github.com/user-attachments/files/18428541/Logboek.pdf)
+
+
 
 ## Logboek WPL4
