@@ -14,6 +14,8 @@ Zie Opdrachten en Reflectie.
 
 
 ## Logboek WPL 3
+Mijn stageperiode bij Scania was een leerzame ervaring. Door uitdagende opdrachten en goede begeleiding heb ik veel geleerd. Ondanks mijn ziekteverlof ben ik erin geslaagd om mijn achterstand in te halen en mijn WPL3 succesvol af te ronden.
+
 [Logboek.pdf](https://github.com/user-attachments/files/18428541/Logboek.pdf)
 
 
