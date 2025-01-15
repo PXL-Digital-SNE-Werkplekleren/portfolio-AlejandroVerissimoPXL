@@ -46,5 +46,32 @@ Wat betreft mijn ervaring met de opdrachten, vond ik het maken van het netwerksc
 
 De samenwerking in ons team was over het algemeen positief. We hebben taken efficiënt verdeeld en elkaar ondersteund bij moeilijkheden. Ik heb gemerkt dat ik technisch veel gegroeid ben, vooral in het werken met servers en netwerkconfiguraties. Daarnaast heb ik mijn soft skills, zoals communicatie en teamwerk, aanzienlijk verbeterd door regelmatig overleg en het oplossen van conflicten binnen het team.
 ## Reflectie WPL 3
+Tijdens mijn stageperiode heb ik veel geleerd op zowel technisch als persoonlijk vlak. Hieronder mijn belangrijkste leerpunten:
+
+### Persoonlijke Groei
+
+In het begin vond ik het lastig om actief deel te nemen aan teamvergaderingen. Naarmate de stage vorderde, kreeg ik meer zelfvertrouwen en leerde ik beter communiceren.
+
+### Technische Ontwikkeling
+
+Ik werkte aan verschillende technische opdrachten, zoals OLR 11, waarbij ik efficiënte oplossingen bedacht. Door feedback leerde ik mijn werk kritisch te bekijken en te verbeteren.
+
+### Samenwerking en Feedback
+
+De ontwikkelingsgesprekken met mijn bedrijfsbegeleider waren waardevol. Ik leerde om meer initiatief te nemen en vragen te stellen wanneer ik vastliep.
+
+### Uitdagingen
+
+Het inhalen van achterstand na mijn ziekteverlof was een grote uitdaging. Door goede planning en ondersteuning van mijn collega’s kon ik mijn taken alsnog afronden.
+
+### Toekomstige Ontwikkelpunten
+
+Proactiever communiceren: Meer initiatief nemen in overlegmomenten.
+
+Verdieping in technische kennis: Blijven werken aan complexe technische vraagstukken.
+
+Time management: Efficiënter omgaan met deadlines en prioriteiten stellen.
+
+
 
 ## Reflectie WPL 4
