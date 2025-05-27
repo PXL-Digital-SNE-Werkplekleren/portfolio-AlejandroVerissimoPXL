@@ -43,3 +43,12 @@ Tijdens de gesprekken werd benadrukt dat ik:
 * De feedback hielp me om gerichte verbeteringen door te voeren, zoals actiever deelnemen aan overleggen en efficiënter plannen.
 
 ## Overzicht ontwikkelingsgesprekken WPL 4
+Tijdens de gesprekken kwam naar voren dat ik technische uitdagingen zelfstandig en doordacht aanpakte.
+Ik leerde netwerkproblemen sneller analyseren en onderbouwde oplossingen voorstellen.
+Mijn betrokkenheid bij het wifi-herontwerpproject werd gewaardeerd, vooral mijn gestructureerde aanpak en duidelijke documentatie.
+De feedback hielp me om proactiever te communiceren bij overlegmomenten en mijn werk nog efficiënter te plannen.
+
+[WPL4-FG-Werkprestaties_VerissimoAlejandro.pdf](https://github.com/user-attachments/files/20460387/WPL4-FG-Werkprestaties_VerissimoAlejandro.pdf)
+[WPL4-FG-Werkkwaliteiten_VerissimoAlejandro.pdf](https://github.com/user-attachments/files/20460388/WPL4-FG-Werkkwaliteiten_VerissimoAlejandro.pdf)
+
+
