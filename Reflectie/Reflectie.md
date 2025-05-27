@@ -75,3 +75,7 @@ Time management: Efficiënter omgaan met deadlines en prioriteiten stellen.
 
 
 ## Reflectie WPL 4
+
+In deze eindreflectie blik ik terug op mijn leerproces en persoonlijke ontwikkeling tijdens de stageperiode bij Scania Oudsbergen in het kader van WPL4. Het document bevat een reflectie volgens het STARR-model, met aandacht voor zowel technische groei als professionele vaardigheden.
+
+[WPL_Eindreflectie_Verissimo_Alejandro.pdf](https://github.com/user-attachments/files/20462572/WPL_Eindreflectie_Verissimo_Alejandro.pdf)
