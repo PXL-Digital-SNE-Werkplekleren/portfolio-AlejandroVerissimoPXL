@@ -43,3 +43,12 @@ Opdracht Probleem met advies
 
 
 ## Opdrachten WPL 4
+Opdracht intervisie maart
+
+[WPL_Intervisie_opdracht_2025-03_Verissimo_Alejandro.pdf](https://github.com/user-attachments/files/20460523/WPL_Intervisie_opdracht_2025-03_Verissimo_Alejandro.pdf)
+
+Opdracht intervisie mei
+
+[WPL_Eindreflectie_Verissimo_Alejandro.pdf](https://github.com/user-attachments/files/20460527/WPL_Eindreflectie_Verissimo_Alejandro.pdf)
+
+
