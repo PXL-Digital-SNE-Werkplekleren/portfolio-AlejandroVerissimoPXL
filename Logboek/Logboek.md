@@ -22,3 +22,5 @@ Mijn stageperiode bij Scania was een leerzame ervaring. Door uitdagende opdracht
 
 ## Logboek WPL4
 Tijdens mijn stage bij Scania heb ik mijn technische en professionele vaardigheden verder kunnen verdiepen. Door de verantwoordelijkheid over een netwerkoptimalisatieproject en het dagelijks oplossen van IT-gerelateerde problemen, heb ik veel praktische kennis opgedaan. De begeleiding en samenwerking binnen het team hielpen me groeien in zelfstandigheid en communicatie. Dankzij deze ervaring sluit ik mijn WPL4 succesvol af, met een duidelijke meerwaarde voor zowel mijn opleiding als mijn werkplek.
+
+[logboek.pdf](https://github.com/user-attachments/files/20535425/logboek.pdf)
