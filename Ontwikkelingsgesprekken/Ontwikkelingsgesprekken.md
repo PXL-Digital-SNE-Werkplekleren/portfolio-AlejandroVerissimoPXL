@@ -52,4 +52,11 @@ De feedback hielp me om proactiever te communiceren bij overlegmomenten en mijn 
 
 [WPL4-FG-Werkkwaliteiten_VerissimoAlejandro.pdf](https://github.com/user-attachments/files/20460388/WPL4-FG-Werkkwaliteiten_VerissimoAlejandro.pdf)
 
+[WPL4-EG-werkprestaties_VerissimoAlejandro.pdf](https://github.com/user-attachments/files/20535396/WPL4-EG-werkprestaties_VerissimoAlejandro.pdf)
+
+[WPL4-EG-werkkwaliteiten_VerissimoAlejandro.pdf.pdf](https://github.com/user-attachments/files/20535397/WPL4-EG-werkkwaliteiten_VerissimoAlejandro.pdf.pdf)
+
+
+
+
 
